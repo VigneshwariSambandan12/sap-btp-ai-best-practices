@@ -1,5 +1,0 @@
-notebook
-jupyterlab
-sap-ai-sdk-gen
-aioboto3
-python-dotenv

@@ -1,8 +1,0 @@
-python-dotenv
-notebook
-jupyterlab
-hdbcli
-hana_ml
-langchain-hana
-langchain-openai
-sap-ai-sdk-gen[all]

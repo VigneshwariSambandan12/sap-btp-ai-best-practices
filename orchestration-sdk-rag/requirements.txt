@@ -1,0 +1,7 @@
+python-dotenv
+notebook
+jupyterlab
+hdbcli
+hana_ml
+pandas
+sap-ai-sdk-gen[all]

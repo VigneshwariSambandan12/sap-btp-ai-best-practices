@@ -1,6 +1,0 @@
-localService/
-*.md
-.gitignore
-.git/
-node_modules/
-nginx/
